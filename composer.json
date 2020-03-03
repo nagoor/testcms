@@ -1,0 +1,7 @@
+{
+    "name": "nagoor/testcms",
+    "description": "test cms",
+    "require": {
+        "php": "^7.2"
+    }
+}
